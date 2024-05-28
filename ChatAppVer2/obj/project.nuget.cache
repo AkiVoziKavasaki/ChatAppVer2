@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "w9pbTgRoZTod32UGN4Ln2DJUxE1GyACHjky8fZAHbzaDehr10Qsf82TFz/Nq7mvc3C9v2ezMmkh1mo/EL/aDUg==",
+  "dgSpecHash": "UFcZ91OU9vNeaeKrftq+KWr/oi8/CoDAPyxgr+ukrbYUXtldkIF5jJI1u6sJ/cwzR1XGAuGmoBfnAn0BsdRWlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Filip\\source\\repos\\ChatAppVer2\\ChatAppVer2\\ChatAppVer2.csproj",
+  "projectFilePath": "C:\\Users\\Aleksa\\Desktop\\Maturski\\ChatAppVer2\\ChatAppVer2\\ChatAppVer2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Filip\\.nuget\\packages\\microsoft.aspnet.signalr.core\\2.4.3\\microsoft.aspnet.signalr.core.2.4.3.nupkg.sha512",
-    "C:\\Users\\Filip\\.nuget\\packages\\microsoft.owin\\2.1.0\\microsoft.owin.2.1.0.nupkg.sha512",
-    "C:\\Users\\Filip\\.nuget\\packages\\microsoft.owin.security\\2.1.0\\microsoft.owin.security.2.1.0.nupkg.sha512",
-    "C:\\Users\\Filip\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512",
-    "C:\\Users\\Filip\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512"
+    "C:\\Users\\Aleksa\\.nuget\\packages\\microsoft.aspnet.signalr.core\\2.4.3\\microsoft.aspnet.signalr.core.2.4.3.nupkg.sha512",
+    "C:\\Users\\Aleksa\\.nuget\\packages\\microsoft.owin\\2.1.0\\microsoft.owin.2.1.0.nupkg.sha512",
+    "C:\\Users\\Aleksa\\.nuget\\packages\\microsoft.owin.security\\2.1.0\\microsoft.owin.security.2.1.0.nupkg.sha512",
+    "C:\\Users\\Aleksa\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512",
+    "C:\\Users\\Aleksa\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512"
   ],
   "logs": [
     {

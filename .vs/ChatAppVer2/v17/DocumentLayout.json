@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Filip\\source\\repos\\ChatAppVer2\\",
+  "WorkspaceRootPath": "C:\\Users\\Aleksa\\Desktop\\Maturski\\ChatAppVer2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|c:\\users\\filip\\source\\repos\\chatappver2\\chatappver2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|c:\\users\\aleksa\\desktop\\maturski\\chatappver2\\chatappver2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|solutionrelative:chatappver2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|c:\\users\\filip\\source\\repos\\chatappver2\\chatappver2\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|c:\\users\\aleksa\\desktop\\maturski\\chatappver2\\chatappver2\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|solutionrelative:chatappver2\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|c:\\users\\filip\\source\\repos\\chatappver2\\chatappver2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|c:\\users\\aleksa\\desktop\\maturski\\chatappver2\\chatappver2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|solutionrelative:chatappver2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|c:\\users\\filip\\source\\repos\\chatappver2\\chatappver2\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|c:\\users\\aleksa\\desktop\\maturski\\chatappver2\\chatappver2\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|solutionrelative:chatappver2\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|c:\\users\\filip\\source\\repos\\chatappver2\\chatappver2\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|c:\\users\\aleksa\\desktop\\maturski\\chatappver2\\chatappver2\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{0ACECC38-9215-46C2-ACC6-E045F742B31A}|ChatAppVer2\\ChatAppVer2.csproj|solutionrelative:chatappver2\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
@@ -36,50 +36,47 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Filip\\source\\repos\\ChatAppVer2\\ChatAppVer2\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\Aleksa\\Desktop\\Maturski\\ChatAppVer2\\ChatAppVer2\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "ChatAppVer2\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Filip\\source\\repos\\ChatAppVer2\\ChatAppVer2\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Aleksa\\Desktop\\Maturski\\ChatAppVer2\\ChatAppVer2\\wwwroot\\js\\site.js",
               "RelativeToolTip": "ChatAppVer2\\wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-13T15:19:41.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T15:19:41.247Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ChatHub.cs",
-              "DocumentMoniker": "C:\\Users\\Filip\\source\\repos\\ChatAppVer2\\ChatAppVer2\\Hubs\\ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksa\\Desktop\\Maturski\\ChatAppVer2\\ChatAppVer2\\Hubs\\ChatHub.cs",
               "RelativeDocumentMoniker": "ChatAppVer2\\Hubs\\ChatHub.cs",
-              "ToolTip": "C:\\Users\\Filip\\source\\repos\\ChatAppVer2\\ChatAppVer2\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Aleksa\\Desktop\\Maturski\\ChatAppVer2\\ChatAppVer2\\Hubs\\ChatHub.cs",
               "RelativeToolTip": "ChatAppVer2\\Hubs\\ChatHub.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:07:10.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T16:07:10.346Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "chat.js",
-              "DocumentMoniker": "C:\\Users\\Filip\\source\\repos\\ChatAppVer2\\ChatAppVer2\\wwwroot\\js\\chat.js",
+              "DocumentMoniker": "C:\\Users\\Aleksa\\Desktop\\Maturski\\ChatAppVer2\\ChatAppVer2\\wwwroot\\js\\chat.js",
               "RelativeDocumentMoniker": "ChatAppVer2\\wwwroot\\js\\chat.js",
-              "ToolTip": "C:\\Users\\Filip\\source\\repos\\ChatAppVer2\\ChatAppVer2\\wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\Aleksa\\Desktop\\Maturski\\ChatAppVer2\\ChatAppVer2\\wwwroot\\js\\chat.js",
               "RelativeToolTip": "ChatAppVer2\\wwwroot\\js\\chat.js",
               "ViewState": "AQIAAEQAAAAAAAAAAAAQwGAAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-28T18:59:45.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:59:45.106Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Filip\\source\\repos\\ChatAppVer2\\ChatAppVer2\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\Aleksa\\Desktop\\Maturski\\ChatAppVer2\\ChatAppVer2\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ChatAppVer2\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Filip\\source\\repos\\ChatAppVer2\\ChatAppVer2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Aleksa\\Desktop\\Maturski\\ChatAppVer2\\ChatAppVer2\\wwwroot\\css\\site.css",
               "RelativeToolTip": "ChatAppVer2\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAEQAAAAdAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-04-28T18:09:28.093Z",
               "EditorCaption": ""
@@ -88,14 +85,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Filip\\source\\repos\\ChatAppVer2\\ChatAppVer2\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aleksa\\Desktop\\Maturski\\ChatAppVer2\\ChatAppVer2\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "ChatAppVer2\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Filip\\source\\repos\\ChatAppVer2\\ChatAppVer2\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aleksa\\Desktop\\Maturski\\ChatAppVer2\\ChatAppVer2\\Pages\\Index.cshtml",
               "RelativeToolTip": "ChatAppVer2\\Pages\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T17:19:25.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T17:19:25.997Z"
             }
           ]
         }
