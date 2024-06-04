@@ -8,6 +8,8 @@ var emojisEnabled = false;
 document.getElementById("sendButton").disabled = true;
 
 connection.on("ReceiveMessage", function (user, message) {
+    //document.getElementById("messageInput").value = "";
+
     let rowDiv = document.createElement("div");
     rowDiv.classList.add("messageContainer");
 
@@ -110,6 +112,7 @@ document.getElementById("sendButton").addEventListener("click", function (event)
     if (currentUser == "") {
         currentUser = user;
     }
+
     connection.invoke("SendMessage", user, message).catch(function (err) {
         return console.error(err.toString());
     });

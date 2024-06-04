@@ -32,11 +32,9 @@ body {
 
 .chatMain {
     margin: auto;
-    width: 500px;
+    width: 425px;
     display: flex;
     flex-direction: column;
-    padding-right: 75px;
-    padding-left: -75px;
 }
 
 .chatBubble {
